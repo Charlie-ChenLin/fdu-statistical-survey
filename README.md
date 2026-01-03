@@ -13,7 +13,8 @@
     - pre-survey.ipynb: 使用GPT-OSS进行预调查的代码
     - 预调查的数据存放在data/目录下
         - resp.json: 原始的预调查数据
-        - interviews_qa.csv: 存放csv格式的预调查数据
+        - interviews.ndjson: ndjson格式的预调查数据
+        - interviews_qa.csv: csv格式的预调查数据
 
 - combined_data.xlsx: MEC的数据明细
 - segment.ipynb: 群体划分的代码
