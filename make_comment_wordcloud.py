@@ -13,7 +13,7 @@ from wordcloud import WordCloud, STOPWORDS
 
 
 DEFAULT_INPUT = Path("outputs/weibo_shortdrama_comments_180d.ndjson")
-DEFAULT_OUTPUT = Path("weibo_shortdrama_wordcloud.png")
+DEFAULT_OUTPUT = Path("weibo_shortdrama_wordcloud.pdf")
 DEFAULT_FONT = Path("/System/Library/Fonts/Hiragino Sans GB.ttc")
 
 

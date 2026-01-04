@@ -1,13 +1,14 @@
 # 项目简介
 本文件包含了该项目下所有数据与代码文件的详细说明。
 - README.md: 本项目简介
-- READNE.pdf: 本项目简介的pdf版本
+- README.pdf: 本项目简介的pdf版本
 - 爬虫相关代码与数据
     - weibo_shortdrama_spider.py: 爬取微博上关于“短剧”“付费”相关评论的代码
     - 爬虫获取的数据存放在outputs/目录下
         - weibo_shortdrama_comments_180d.ndjson: 爬虫获得的数据
         - README.md: 对爬虫获得的数据的每个字段的说明
     - make_comment_wordcloud.py: 使用outputs/weibo_shortdrama_comments_180d.ndjson制作词云图的代码
+    - weibo_shortdrama_wordcloud.pdf: 词云图
 
 - 使用LLM预调查的相关代码与数据
     - pre-survey.ipynb: 使用GPT-OSS进行预调查的代码
