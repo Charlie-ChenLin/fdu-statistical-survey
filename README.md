@@ -18,6 +18,7 @@
         - interviews_qa.csv: csv格式的预调查数据
 
 - combined_data.xlsx: MEC的数据明细
+- 问卷结果_1205_按文本.xlsx: 收集的问卷数据
 - segment.ipynb: 群体划分的代码
 - ANOVA+multiple_choice_analysis.ipynb: 单因子方差分析和群体需求统计的代码
 - 结构方程模型spsspro报告.docx: 结构方程模型的spsspro报告
